@@ -1,0 +1,5 @@
+{
+  "name": "Tanpura Simulator",
+  "description": "A realistic Tanpura simulator built with React and the Web Audio API. Users can select the key, octave, and tempo to generate the characteristic drone sound of the Indian classical instrument for meditation or music practice.",
+  "requestFramePermissions": []
+}
